@@ -1,0 +1,86 @@
+{
+  "abrir_aplicacion": {
+    "name": "abrir_aplicacion",
+    "description": "\n    Abre una aplicación o sitio web\n    Args:\n        nombre: Nombre de la aplicación o sitio web\n    Returns:\n        str: Mensaje de resultado\n    ",
+    "file_path": "resources\\functions\\abrir_aplicacion.py",
+    "enabled": true,
+    "created_at": "2025-02-16T15:06:55.263243",
+    "last_used": null,
+    "usage_count": 0,
+    "average_execution_time": 0,
+    "tags": [],
+    "version": "1.0.0"
+  },
+  "obtener_hora": {
+    "name": "obtener_hora",
+    "description": "Obtiene la hora actual del sistema",
+    "file_path": "resources\\functions\\obtener_hora.py",
+    "enabled": true,
+    "created_at": "2025-02-16T15:06:55.263243",
+    "last_used": null,
+    "usage_count": 0,
+    "average_execution_time": 0,
+    "tags": [],
+    "version": "1.0.0"
+  },
+  "obtener_info_geolocalización": {
+    "name": "obtener_info_geolocalización",
+    "description": "función para obtener información geográfica (como país) sobre la ubicación actual",
+    "file_path": "resources\\functions\\obtener_info_geolocalización.py",
+    "enabled": true,
+    "created_at": "2025-02-16T16:35:41.261977",
+    "last_used": null,
+    "usage_count": 0,
+    "average_execution_time": 0,
+    "tags": [],
+    "version": "1.0.0"
+  },
+  "obtener_hora_ubicacion_especifica": {
+    "name": "obtener_hora_ubicacion_especifica",
+    "description": "función para consultar la hora actual en una ubicación específica",
+    "file_path": "resources\\functions\\obtener_hora_ubicacion_especifica.py",
+    "enabled": true,
+    "created_at": "2025-02-16T16:36:17.424592",
+    "last_used": null,
+    "usage_count": 0,
+    "average_execution_time": 0,
+    "tags": [],
+    "version": "1.0.0"
+  },
+  "obtener_texto_no_reconocido": {
+    "name": "obtener_texto_no_reconocido",
+    "description": "función para extraer texto no reconocido en un mensaje de entrada y almacenarlo o procesarlo",
+    "file_path": "resources\\functions\\obtener_texto_no_reconocido.py",
+    "enabled": true,
+    "created_at": "2025-02-16T16:56:22.088337",
+    "last_used": null,
+    "usage_count": 0,
+    "average_execution_time": 0,
+    "tags": [],
+    "version": "1.0.0"
+  },
+  "obtener_saludo_persona": {
+    "name": "obtener_saludo_persona",
+    "description": "función para obtener un saludo genérico para una persona",
+    "file_path": "resources\\functions\\obtener_saludo_persona.py",
+    "enabled": true,
+    "created_at": "2025-02-16T16:57:02.229762",
+    "last_used": null,
+    "usage_count": 0,
+    "average_execution_time": 0,
+    "tags": [],
+    "version": "1.0.0"
+  },
+  "obtener_hora_codificada_texto": {
+    "name": "obtener_hora_codificada_texto",
+    "description": "función para tomar una frase hablada y extraer la hora expresada en texto y codificarla como HH:MM",
+    "file_path": "resources\\functions\\obtener_hora_codificada_texto.py",
+    "enabled": true,
+    "created_at": "2025-02-16T16:58:21.063411",
+    "last_used": null,
+    "usage_count": 0,
+    "average_execution_time": 0,
+    "tags": [],
+    "version": "1.0.0"
+  }
+}
